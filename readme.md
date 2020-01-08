@@ -24,6 +24,16 @@ The finished project:
 
 ## Submission Requirements
 
+
+How to run this server:
+
+1. add   "start": "node index.js" to your scripts in package.json
+
+2. install npm package  "random-movie-quotes": "^1.0.3" in package.json
+
+3. add 'var quotes = require('random-movie-quotes')' to the top of the index.js file
+
+
 Please include the url to your forked repository with the fixed webserver in your application to Inclusion's program.
 
 ## References
